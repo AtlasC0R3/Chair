@@ -59,5 +59,8 @@ It's dumb.
 It's less dumb. 
 (I actually used this one as my banner on [my old Mastodon account](https://mastodon.online/@atlas_core))
 
+## before/
+Profile pics I had before Chair was ever a thing.
+
 # License
 All images and files are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). 
